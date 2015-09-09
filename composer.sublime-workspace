@@ -1,0 +1,1603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lay",
+				"layouts/"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"p",
+				"pre	<pre>"
+			],
+			[
+				"La",
+				"Lang-get	Lang-get"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"URL",
+				"URL-route	URL-route"
+			],
+			[
+				"sho",
+				"_show_basic_info.blade.php"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"medical",
+				"medical_checks"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"For",
+				"Form"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"secti",
+				"section	Tag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ath",
+				"athlete"
+			],
+			[
+				"url",
+				"url_edit"
+			],
+			[
+				"Requ",
+				"Request-url	Request-url"
+			],
+			[
+				"http",
+				"http_get"
+			],
+			[
+				"show",
+				"show_detail_info.blade.php"
+			],
+			[
+				"wo",
+				"word-wrap"
+			],
+			[
+				"wor",
+				"word-break"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"col",
+				"colspan	Attr"
+			],
+			[
+				"featu",
+				"feature_list"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"App",
+				"App-before	App-before"
+			],
+			[
+				"vie",
+				"view"
+			],
+			[
+				"View",
+				"View-make	View-make"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"Con",
+				"Config-get	Config-get"
+			],
+			[
+				"inju",
+				"injuryColor"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"th",
+				"thrownError"
+			],
+			[
+				"aj",
+				"ajaxerror	.ajaxerror()"
+			],
+			[
+				"scope",
+				"scopePageRenderPopup"
+			],
+			[
+				"goto",
+				"calendarGotoADate"
+			],
+			[
+				"can",
+				"canShowLoadImage"
+			],
+			[
+				"cur",
+				"currenDate"
+			],
+			[
+				"current",
+				"currentView"
+			],
+			[
+				"cale",
+				"calendarGotoADate"
+			],
+			[
+				"gro",
+				"group_id"
+			],
+			[
+				"toda",
+				"todayDate"
+			],
+			[
+				"tod",
+				"todayDate"
+			],
+			[
+				"strfm",
+				"strfmDate"
+			],
+			[
+				"curr",
+				"currenDate"
+			],
+			[
+				"cu",
+				"currentDate"
+			],
+			[
+				"Inju",
+				"injuryHistory"
+			],
+			[
+				"Rou",
+				"Route-getRequest	Route-getRequest"
+			],
+			[
+				"Ro",
+				"Route-get	Route-get"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"star",
+				"start_date"
+			],
+			[
+				"Se",
+				"Session-put	Session-put"
+			],
+			[
+				"return",
+				"return_date"
+			],
+			[
+				"to",
+				"today"
+			],
+			[
+				"inj",
+				"injury_history"
+			],
+			[
+				"comp",
+				"completion_time_minute"
+			],
+			[
+				"start",
+				"start_time_minute"
+			],
+			[
+				"format",
+				"formatNewTime"
+			],
+			[
+				"hou",
+				"hourFM"
+			],
+			[
+				"all",
+				"allday"
+			],
+			[
+				"com",
+				"completion_date"
+			],
+			[
+				"go",
+				"dateToGo"
+			],
+			[
+				"dif",
+				"diff_dates"
+			],
+			[
+				"day_d",
+				"day_drop_end"
+			],
+			[
+				"day_",
+				"day_drop_start"
+			],
+			[
+				"new",
+				"new_date"
+			],
+			[
+				"dra",
+				"day_drag_drop"
+			],
+			[
+				"wa",
+				"wait"
+			],
+			[
+				"wait",
+				"waitForElement"
+			],
+			[
+				"id",
+				"id_user"
+			],
+			[
+				"doc",
+				"doctor"
+			],
+			[
+				"injury",
+				"injury_category"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"pra",
+				"parameters"
+			],
+			[
+				"Auth",
+				"Auth-user	Auth-user"
+			],
+			[
+				"Ath",
+				"AthletesPage"
+			],
+			[
+				"per",
+				"permission_app"
+			],
+			[
+				"app",
+				"app_id"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"sport",
+				"sport_upd"
+			],
+			[
+				"ag",
+				"age2"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"cust",
+				"customer_id"
+			],
+			[
+				"where",
+				"whereRaw"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"sele",
+				"selected_user_role"
+			],
+			[
+				"par",
+				"parrent"
+			],
+			[
+				"u",
+				"username"
+			],
+			[
+				"lab",
+				"label	<label>"
+			],
+			[
+				"htm",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"ht",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"Route",
+				"Route"
+			],
+			[
+				"fore",
+				"foreach	foreach …"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/test.blade.php",
+			"settings":
+			{
+				"buffer_size": 7192,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "var content = \"\n                        <form role='form'>\n                            <div class='form-group'>\n                                <label for='exampleInputEmail1'>Email address</label>\n                                <input type='email' class='form-control' id='exampleInputEmail1' placeholder='Enter email'>\n                            </div>\n                            <div class='form-group'>\n                                <label for='exampleInputPassword1'>Password</label>\n                                <input type='password' class='form-control' id='exampleInputPassword1' placeholder='Password'>\n                            </div>\n                            <div class='form-group'>\n                                <label for='exampleInputFile'>File input</label>\n                                <input type='file' id='exampleInputFile'><p class='help-block'>Example block-level help text here.</p>\n                            </div>\n                            <div class='checkbox'>\n                                <label><input type='checkbox'> Check me out</label>\n                            </div>\n                            <button type='submit' class='btn btn-default'>Submit</button>\n                        </form>\";",
+			"settings":
+			{
+				"buffer_size": 1253,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/TestController.php",
+			"settings":
+			{
+				"buffer_size": 1224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/default.blade.php",
+			"settings":
+			{
+				"buffer_size": 5553,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "resources/views/header.blade.php",
+			"file_size": 0,
+			"file_write_time": 130861786109304756,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/includes/header.blade.php",
+			"settings":
+			{
+				"buffer_size": 7890,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/includes/sidebar.blade.php",
+			"settings":
+			{
+				"buffer_size": 1846,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/includes/footers.blade.php",
+			"settings":
+			{
+				"buffer_size": 257,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/includes/head.blade.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "frm",
+		"selected_items":
+		[
+			[
+				"frm",
+				"phpfmt: toggle PSR2"
+			],
+			[
+				"trim",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"phpfmt: format now"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"phpf",
+				"phpfmt: toggle PSR2"
+			],
+			[
+				"psr",
+				"phpfmt: toggle PSR2"
+			],
+			[
+				"enab",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"enablel",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"now",
+				"phpfmt: format now"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ph",
+				"phpfmt: format now"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Snippet: input - reset"
+			],
+			[
+				"laravel see",
+				"Laravel Generate: Seed"
+			],
+			[
+				"resou",
+				"Laravel Generate: Resource"
+			],
+			[
+				"larave see",
+				"Laravel Generate: Seed"
+			],
+			[
+				"laravel seed",
+				"Laravel Generate: Seed"
+			],
+			[
+				"resour",
+				"Laravel Generate: Resource"
+			],
+			[
+				"migra",
+				"Laravel Generate: Migration"
+			],
+			[
+				"artisan",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"laravel vie",
+				"Laravel Facade: View"
+			],
+			[
+				"laravel view",
+				"Laravel Generate: View"
+			],
+			[
+				"laravel ve",
+				"Laravel Generate: View"
+			],
+			[
+				"migr",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"artisan com",
+				"Laravel Artisan: Command: Make"
+			],
+			[
+				"artisan co",
+				"Laravel Artisan: Command: Make"
+			],
+			[
+				"laravel",
+				"Laravel Artisan: Custom Command"
+			],
+			[
+				"arti",
+				"Laravel Facade: Artisan"
+			],
+			[
+				"seed",
+				"Laravel Generate: Seed"
+			],
+			[
+				"larav",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"mig",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"miga",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"test",
+				"Laravel Generate: Test"
+			],
+			[
+				"resource",
+				"Laravel Generate: Resource"
+			],
+			[
+				"resouce",
+				"Laravel Generate: Resource"
+			],
+			[
+				"contro",
+				"Laravel Generate: Controller"
+			],
+			[
+				"mo",
+				"Laravel Generate: Model"
+			],
+			[
+				"laravel gen",
+				"Laravel Generate: Resource"
+			],
+			[
+				"laravel r",
+				"Laravel Generate: Resource"
+			],
+			[
+				"laravel ge",
+				"Laravel Generate: Model"
+			]
+		],
+		"width": 728.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/myproject/tien/laravel",
+		"/G/myproject/tien/laravel/app",
+		"/G/myproject/tien/laravel/app/Http",
+		"/G/myproject/tien/laravel/app/Http/Controllers",
+		"/G/myproject/tien/laravel/public",
+		"/G/myproject/tien/laravel/resources",
+		"/G/myproject/tien/laravel/resources/assets",
+		"/G/myproject/tien/laravel/resources/assets/sass",
+		"/G/myproject/tien/laravel/resources/views",
+		"/G/myproject/tien/laravel/resources/views/layouts"
+	],
+	"file_history":
+	[
+		"/G/myproject/tien/laravel/resources/views/admin_template.blade.php",
+		"/G/myproject/tien/laravel/app/Providers/AppServiceProvider.php",
+		"/G/myproject/tien/laravel/config/app.php",
+		"/G/myproject/tien/laravel/app/Http/routes.php",
+		"/G/myproject/tien/laravel/public/bower_components/AdminLTE/index.html",
+		"/G/myproject/tien/laravel/server.php",
+		"/Z/assets/climbdb/scss/groups/groups.scss",
+		"/Z/src/app/views/climbdb/groups/show.blade.php",
+		"/Z/src/app/controllers/ConditioningDatasController.php",
+		"/Z/src/app/helpers/ExportCsvFilter.php",
+		"/Z/src/app/lang/ja/conditioning_datas.php",
+		"/Z/src/app/lang/ja/condition.php",
+		"/Z/src/app/views/conditioning_datas/show.blade.php",
+		"/Z/src/app/lang/ja/global.php",
+		"/Z/assets/Gruntfile.coffee",
+		"/Z/assets/climbdb/scss/others/medication_history.scss",
+		"/Z/src/app/views/climbdb/includes/content_header.blade.php",
+		"/Z/assets/climbdb/scss/commons/common.scss",
+		"/Z/src/app/views/climbdb/partials/_table_list_popup.blade.php",
+		"/Z/src/app/helpers/partial.php",
+		"/Z/assets/climbdb/scss/commons/_boxes.scss",
+		"/Z/src/app/views/climbdb/medication_history/index.blade.php",
+		"/Z/src/app/views/climbdb/medication_history/_show_box-search.blade.php",
+		"/Z/src/public/assets/climbdb/css/others/medication_history.css",
+		"/Z/src/app/views/climbdb/includes/content_header_small.balde.php",
+		"/Z/src/app/views/climbdb/groups/edit.blade.php",
+		"/Z/src/app/macros/form.php",
+		"/Z/src/app/controllers/MediaController.php",
+		"/Z/src/app/controllers/climbdb/MedicationHistoriesController.php",
+		"/Z/src/app/controllers/climbdb/MediaController.php",
+		"/Z/src/app/views/climbdb/groups/_form.blade.php",
+		"/Z/src/app/controllers/climbdb/OthersController.php",
+		"/Z/src/app/views/climbdb/medical_check_vaccinations/show.blade.php",
+		"/Z/src/app/controllers/climbdb/GroupsController.php",
+		"/Z/src/app/views/climbdb/medical_checks/_form.blade.php",
+		"/Z/src/app/macros/button.php",
+		"/Z/src/app/controllers/climbdb/MedicalChecksVaccinationsController.php",
+		"/Z/src/app/views/climbdb/medical_check_vaccinations/_show_antibody_titer_test.blade.php",
+		"/Z/src/app/views/climbdb/medical_check_vaccinations/_show_info.blade.php",
+		"/Z/src/app/views/climbdb/medical_check_vaccinations/_show_basic_info.blade.php",
+		"/Z/src/app/views/climbdb/medical_check_vaccinations/_athlete_information.blade.php",
+		"/Z/src/app/views/climbdb/medical_checks/_show_organization_history.blade.php",
+		"/Z/assets/climbdb/scss/commons/_box.scss",
+		"/Z/src/app/views/climbdb/medical_checks/_show_sport_history.blade.php",
+		"/Z/src/app/views/climbdb/medical_checks/_show_general_info.blade.php",
+		"/Z/src/app/views/climbdb/medical_checks/edit.blade.php",
+		"/Z/assets/climbdb/scss/medical_checks/medical_checks.scss",
+		"/Z/src/app/views/climbdb/test_file_upload.blade.php",
+		"/Z/src/public/assets/js/vendor.js",
+		"/Z/assets/climbdb/scss/commons/_table.scss",
+		"/Z/src/app/views/climbdb/groups/index.blade.php",
+		"/Z/src/app/controllers/climbdb/MedicalChecksController.php",
+		"/Z/assets/climbdb/scss/athletes/athletes.scss",
+		"/Z/assets/js/common/input_control.js",
+		"/Z/src/app/views/climbdb/layouts/default.blade.php",
+		"/Z/src/app/models/Customer.php",
+		"/Z/src/app/views/climbdb/athletes/table_tennis/show.blade.php",
+		"/Z/src/app/views/climbdb/athletes/baseball/show.blade.php",
+		"/Z/src/app/views/climbdb/athletes/table_tennis/_show_detail_info.blade.php",
+		"/Z/src/app/views/climbdb/athletes/baseball/_show_detail_info.blade.php",
+		"/Z/src/app/views/climbdb/athletes/common/_show_history_team_detail.blade.php",
+		"/Z/src/app/views/climbdb/athletes/common/_show_group_info.blade.php",
+		"/Z/src/app/views/climbdb/includes/head.blade.php",
+		"/Z/src/app/views/climbdb/physical_fitness_datas/index.blade.php",
+		"/Z/src/app/views/_tkb/physical_fitness_datas/show.blade.php",
+		"/Z/src/app/controllers/climbdb/SessionsController.php",
+		"/Z/src/app/views/_tkb/athletes/baseball/show.blade.php",
+		"/Z/src/app/controllers/climbdb/AthletesController.php",
+		"/Z/src/app/views/climbdb/athletes/common/_show_upload_photo.blade.php",
+		"/Z/src/app/views/climbdb/athletes/common/_show_basic_info.blade.php",
+		"/Z/src/app/views/_tkb/physical_fitness_datas/index.blade.php",
+		"/Z/src/app/views/_tkb/athletes/table_tennis/show.blade.php",
+		"/Z/assets/climbdb/scss/commons/_content.scss",
+		"/Z/src/app/models/Athlete.php",
+		"/Z/src/vendor/laravel/framework/src/Illuminate/Routing/Redirector.php",
+		"/Z/src/app/macros/response.php",
+		"/Z/src/app/controllers/AthletesController.php",
+		"/Z/src/vendor/anahkiasen/former/src/Former/Form/Form.php",
+		"/Z/src/public/assets/climbdb/scss/commons/common.css",
+		"/Z/src/app/views/climbdb/includes/page_title.blade.php",
+		"/Z/src/app/lang/ja/athletes.php",
+		"/Z/src/app/database/migrations/2015_08_19_145213_update_customers_view_value.php",
+		"/Z/src/app/views/climbdb/athletes/table_tennis/show_group_info.blade.php",
+		"/Z/src/app/views/climbdb/athletes/table_tennis/show_detail_info.blade.php",
+		"/Z/src/app/views/climbdb/athletes/common/_show_history_team.blade.php",
+		"/Z/src/app/views/climbdb/athletes/table_tennis/show_basic_info.blade.php",
+		"/Z/assets/js/common/messages.js",
+		"/Z/src/app/views/climbdb/athletes/common/_form_history_team.blade.php",
+		"/Z/assets/scss/common.scss",
+		"/Z/assets/climbdb/js/modules/athletes_test.js",
+		"/Z/assets/climbdb/js/commons/common.js",
+		"/Z/assets/climbdb/scss/commons/header.scss",
+		"/Z/src/app/database/migrations/2015_08_12_163953_add_update_viewfield_for_customer.php",
+		"/Z/src/app/filters.php",
+		"/Z/src/app/config/view.php",
+		"/Z/assets/climbdb/scss/commons/_sidebar.scss",
+		"/Z/assets/config_climbdb.rb",
+		"/Z/src/public/assets/climbdb/js/commons.js",
+		"/Z/assets/config.rb",
+		"/Z/assets/climbdb/js/athletes/athletes.js",
+		"/Z/assets/scss/climbdb/styles.scss",
+		"/Z/src/app/views/hello.blade.php",
+		"/Z/src/app/views/testsplitview.php",
+		"/Z/assets/scss/climbdb/commons.scss",
+		"/Z/assets/scss/climbdb/athletes.scss",
+		"/Z/assets/vendor/admin-lte/dist/css/skins/skin-blue.min.css",
+		"/Z/assets/vendor/admin-lte/dist/css/skins/skin-blue.css",
+		"/Z/src/app/views/climbdb/includes/header.blade.php",
+		"/Z/src/app/config/local/app.php",
+		"/Z/src/app/views/climbdb/includes/menu.blade.php",
+		"/C/Users/PL/AppData/Roaming/Sublime Text 3/Packages/User/phpfmt.sublime-settings",
+		"/Z/src/app/views/climbdb/athletes/table_tennis/index.blade.php",
+		"/Z/src/app/views/tkb/themes/index.blade.php",
+		"/Z/src/app/views/climbdb/includes/footer.blade.php",
+		"/C/Users/PL/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/PL/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Z/assets/vendor/admin-lte/dist/css/skins/skin-blue-light.min.css",
+		"/Z/assets/vendor/admin-lte/dist/css/skins/skin-blue-light.css",
+		"/Z/src/public/assets/vendor/admin-lte/starter.html",
+		"/Z/src/app/views/climbdb/index.html",
+		"/Z/src/app/views/tkb/includes/menu.blade.php",
+		"/Z/src/app/menu.php",
+		"/Z/assets/bower.json",
+		"/G/mytrax_project/Themes/AdminLTE-2.2.1/bower.json",
+		"/Z/src/app/models/User.php",
+		"/Z/src/app/controllers/CustomersController.php",
+		"/Z/src/app/controllers/BaseController.php",
+		"/Z/src/app/start/global.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"Z:\\src\\app\\views",
+			"Z:\\src\\app\\lang\\ja",
+			"Z:\\src\\app\\views",
+			"Z:\\assets\\js\\common",
+			"Z:\\src\\app\\",
+			"Z:\\src\\app\\models",
+			"Z:\\src\\app\\",
+			"Z:\\src\\app\\models",
+			"Z:\\src\\app\\tests\\codeception\\tests,Z:\\src\\app\\models",
+			"Z:\\src\\app\\tests\\codeception\\tests,Z:\\src\\app\\models,Z:\\assets\\js",
+			"Z:\\src\\app\\tests\\codeception\\tests,Z:\\src\\app\\models",
+			"Z:\\src\\app\\tests\\codeception\\tests",
+			"G:\\program\\htdocs\\laravel\\mytsukuba\\app,Z:\\src\\app\\tests\\codeception\\tests",
+			"G:\\program\\htdocs\\laravel\\mytsukuba\\app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"morris.min.js",
+			"bootstrap.m",
+			"bower_components/AdminLTE",
+			"packages/GionniValeriana/adminlte",
+			"admin-lte",
+			"adminlte",
+			"admin-lte",
+			"width",
+			"glyphicon-trash",
+			"edit",
+			"glyphicon glyphicon-trash",
+			"weight-variation-aft",
+			"	",
+			"回数",
+			"defecation",
+			"排便",
+			"夕食時に摂取できなかったもの",
+			"昼食時に摂取できなかったもの",
+			"what-did-not-you-eat",
+			"training_completed_times",
+			"$temp",
+			"$tmp",
+			"training_completed_times",
+			"\n    		",
+			"\n			",
+			"difficulty",
+			"points",
+			"difficulty",
+			"body_fat_percent",
+			"体脂肪率",
+			"body_fat_percent",
+			"\n					",
+			"回数",
+			"体脂肪率",
+			"難度点",
+			"パフォーマンス状態",
+			"立位体前屈",
+			"体脂肪率",
+			"パフォーマンス状態",
+			"体脂肪率\nパフォーマンス状態",
+			"体脂肪率\n回数",
+			"体脂肪率\n難度点",
+			"体脂肪率\n体脂肪率",
+			"	",
+			"array_push($export_data",
+			"weight_wakeup",
+			"起床時の体重",
+			"weight_wakeup",
+			"first_10_jumps",
+			"=>",
+			"	",
+			"search-box",
+			"checkbox",
+			"pate_title_small",
+			"page_tite_small",
+			"content_header_small.blade.php",
+			"text-center",
+			"名称",
+			"phone",
+			"Number",
+			"address",
+			"\n  ",
+			"table",
+			"iCheck",
+			"js",
+			"$('input').iCheck",
+			"大学／短大",
+			"打",
+			"年齢",
+			"国籍",
+			"delete",
+			".content-header",
+			"btn_edit",
+			"right_content_header",
+			"出身地",
+			"rint avatar",
+			"inclu",
+			"vertical",
+			".athlete-basic-info",
+			"particularjs",
+			"compass",
+			"compassclimbdb",
+			"compass",
+			"css_dir",
+			"climb",
+			"\n  ",
+			"_button_submit",
+			"printButtonSubmit",
+			"heigh",
+			"table-athletes",
+			"primary",
+			".sidebar-menu",
+			"#222d32",
+			".main-sidebar",
+			".skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side",
+			"#222d32",
+			".skin-blue .wrapper,.skin-blue .main-sidebar,.skin-blue .left-side",
+			"generateTheme",
+			"('view.paths')",
+			"('view.path')",
+			"Config::get('view.path')",
+			"generateTheme",
+			"themes",
+			"current",
+			"\">",
+			"<link rel=\"stylesheet\" href=\"",
+			"Attribute",
+			"var_dum",
+			"update(",
+			"update",
+			"admin",
+			"password",
+			"super",
+			"user",
+			"roles",
+			"Customer",
+			"App::before",
+			"Auth::login",
+			"sessions",
+			"カレンダー設定",
+			"sex",
+			"select",
+			"phpunit",
+			"ofCustomer",
+			"		\n",
+			"MiscSetting",
+			"training_questionnaire_lists"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"/bower_components/AdminLTE",
+			"bower_components/AdminLTE",
+			"AdminLTE",
+			"adminlte",
+			"fa fa-fw fa-trash",
+			"fa fa-fw fa-trash\n",
+			"\n",
+			" => ",
+			"",
+			" ",
+			"active",
+			",",
+			"\"vendor/admin-lte/",
+			" ",
+			"$temp->value_without_unit",
+			"$value_without_unit",
+			" ",
+			",",
+			";",
+			",",
+			"setupDataNextPrev",
+			"injuryHistory",
+			"athleteInjuryHistory",
+			" ",
+			",",
+			"end",
+			"start",
+			"end",
+			"that.day_drag_drop",
+			"this.day_drag_drop.date_end",
+			"this.day_drag_drop.date_stop",
+			"this.day_drag_drop.date_start",
+			"canSe",
+			",",
+			"select",
+			"']\";",
+			" = \"//input[@name='",
+			"public static $",
+			"=",
+			";",
+			"  ",
+			"",
+			"</option>\n                <option",
+			"</option>\n                <option                ",
+			" \n                ",
+			" ",
+			";",
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/test.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4621,
+								5332
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1938.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1253,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "G:\\myproject\\tien\\laravel",
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Controllers/TestController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1221,
+								1221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/layouts/default.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5209,
+								5117
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1257.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/header.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/includes/header.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7890,
+								7890
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2078.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resources/views/includes/sidebar.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1846,
+								1846
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "resources/views/includes/footers.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "resources/views/includes/head.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "composer.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"conditioningdatascontrolle",
+				"src\\app\\controllers\\ConditioningDatasController.php"
+			],
+			[
+				"conditioningdatascontroller",
+				"src\\app\\controllers\\ConditioningDatasController.php"
+			],
+			[
+				"vendor",
+				"src\\public\\assets\\js\\vendor.js"
+			],
+			[
+				"messages",
+				"assets\\js\\common\\messages.js"
+			],
+			[
+				"custo",
+				"src\\app\\models\\Customer.php"
+			],
+			[
+				"footer",
+				"src\\app\\views\\climbdb\\includes\\footer.blade.php"
+			],
+			[
+				"skin-blue-li",
+				"assets\\vendor\\admin-lte\\dist\\css\\skins\\skin-blue-light.css"
+			],
+			[
+				"skin-blue-m",
+				"assets\\vendor\\admin-lte\\dist\\css\\skins\\skin-blue-light.min.css"
+			],
+			[
+				"bow",
+				"assets\\bower.json"
+			],
+			[
+				"add_new_customer",
+				"src\\app\\database\\migrations_old\\2014_12_10_150530_add_new_column_for_customers_table.php"
+			],
+			[
+				"customerscontroller",
+				"src\\app\\controllers\\CustomersController.php"
+			],
+			[
+				"customer",
+				"src\\app\\database\\migrations\\2015_07_08_123119_add_stop_to_use_field_into_customers_table.php"
+			],
+			[
+				"2015_08_12_163953_add_update_viewfield_for_customer",
+				"src\\app\\database\\migrations\\2015_08_12_163953_add_update_viewfield_for_customer.php"
+			],
+			[
+				"athletescontroller",
+				"src\\app\\controllers\\AthletesController.php"
+			],
+			[
+				"app",
+				"src\\app\\config\\app.php"
+			],
+			[
+				"auth",
+				"src\\app\\config\\auth.php"
+			],
+			[
+				"sessionscontroller",
+				"src\\app\\controllers\\SessionsController.php"
+			],
+			[
+				"fullcalendar.mi",
+				"assets\\vendor\\fullcalendar\\dist\\fullcalendar.min.js"
+			],
+			[
+				"masterconfigurationscontroller",
+				"src\\app\\controllers\\MasterConfigurationsController.php"
+			],
+			[
+				"providerrepository.php",
+				"src\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php"
+			],
+			[
+				"user",
+				"src\\app\\models\\User.php"
+			],
+			[
+				"fullcalendar",
+				"assets\\vendor\\fullcalendar\\dist\\fullcalendar.min.js"
+			],
+			[
+				"calendar.js",
+				"assets\\vendor\\fullcalendar\\dist\\fullcalendar.js"
+			],
+			[
+				"athleteschedulescontroller",
+				"src\\app\\controllers\\AthleteSchedulesController.php"
+			],
+			[
+				"physicaldatacontroller",
+				"src\\app\\controllers\\PhysicalDataController.php"
+			],
+			[
+				"stafscenario2cest",
+				"src\\app\\tests\\codeception\\tests\\acceptance\\tests\\scenario\\StaffScenario2Cest.php"
+			],
+			[
+				"src/app/start/global.php",
+				"src\\app\\start\\global.php"
+			],
+			[
+				"homecontroller",
+				"src\\app\\controllers\\HomeController.php"
+			],
+			[
+				"dashboard",
+				"src\\app\\routes\\dashboards.php"
+			],
+			[
+				"sche",
+				"assets\\js\\particular\\schedules.js"
+			],
+			[
+				"athletschedu",
+				"src\\app\\controllers\\AthleteSchedulesController.php"
+			],
+			[
+				"orixdataseeder",
+				"src\\app\\database\\seeds\\OrixDataSeeder.php"
+			],
+			[
+				"medicalcheckcon",
+				"src\\app\\controllers\\MedicalChecksController.php"
+			],
+			[
+				"injurycarere",
+				"src\\app\\models\\InjuryCareReport.php"
+			],
+			[
+				"importcsvfiles",
+				"src\\app\\commands\\ImportCsvFiles.php"
+			],
+			[
+				"command",
+				"src\\vendor\\symfony\\finder\\Symfony\\Component\\Finder\\Shell\\Command.php"
+			],
+			[
+				"filter",
+				"src\\app\\filters.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

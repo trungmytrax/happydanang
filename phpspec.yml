@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: tinhthanh
+        psr4_prefix: tinhthanh
+        src_path: app
