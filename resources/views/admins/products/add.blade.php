@@ -1,0 +1,1 @@
+@include 'admins.products.add';

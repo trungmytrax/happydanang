@@ -28,7 +28,7 @@ return [
     |
     */
 
-    'model' => tinhthanh\User::class,
+    'model' => happydanang\User::class,
 
     /*
     |--------------------------------------------------------------------------

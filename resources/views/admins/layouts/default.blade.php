@@ -77,7 +77,7 @@
     <!-- Bootstrap 3.3.5 -->
     <script src="{{ asset("/bower_components/AdminLTE/bootstrap/js/bootstrap.min.js") }}"></script>
     <!-- Morris.js charts -->
-    <script src="{{ asset("/bower_components/AdminLTE/plugins/morris/morris.min.js") }}"></script>
+    <!-- <script src="{{ asset("/bower_components/AdminLTE/plugins/morris/morris.min.js") }}"></script> -->
     <!-- Sparkline -->
     <script src="{{ asset("/bower_components/AdminLTE/plugins/sparkline/jquery.sparkline.min.js") }}"></script>
     <!-- jvectormap -->
@@ -99,7 +99,7 @@
     <!-- AdminLTE App -->
     <script src="{{ asset("/bower_components/AdminLTE/dist/js/app.min.js") }}"></script>
     <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
-    <script src="{{ asset("/bower_components/AdminLTE/dist/js/pages/dashboard.js") }}"></script>
+    <!-- <script src="{{ asset("/bower_components/AdminLTE/dist/js/pages/dashboard.js") }}"></script> -->
     <!-- AdminLTE for demo purposes -->
     <script src="{{ asset("/bower_components/AdminLTE/dist/js/demo.js") }}"></script>
     <!-- REQUIRED JS SCRIPTS -->

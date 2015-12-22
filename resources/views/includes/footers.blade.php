@@ -1,8 +1,14 @@
-<footer class="main-footer">
-    <!-- To the right -->
-    <div class="pull-right hidden-xs">
-        Anything you want
+<footer>
+    <div class="container">
+
+        <div class="copyright text center">
+            <div class="copyright-content pull-left">2015@happydanang. All right services</div>
+            <ul class="socials">
+            	<li><a class="icon-social unknow" href="#" style="background: url({{asset('img/ico_unknow.png')}});"></a></li>
+            	<li><a class="icon-social facebooc" href="#" style="background: url({{asset('img/ico_facebook.png')}});"></a></li>
+            	<li><a class="icon-social google" href="#" style="background: url({{asset('img/ico_google.png')}});"></a></li>
+            	<li><a class="icon-social twiter" href="#" style="background: url({{asset('img/ico_twiter.png')}});"></a></li>
+            </ul>
+        </div>
     </div>
-    <!-- Default to the left -->
-    <strong>Copyright © 2015 <a href="#">Company</a>.</strong> All rights reserved.
 </footer>

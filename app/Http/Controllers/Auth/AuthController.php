@@ -1,10 +1,10 @@
 <?php
 
-namespace tinhthanh\Http\Controllers\Auth;
+namespace happydanang\Http\Controllers\Auth;
 
-use tinhthanh\User;
+use happydanang\User;
 use Validator;
-use tinhthanh\Http\Controllers\Controller;
+use happydanang\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 

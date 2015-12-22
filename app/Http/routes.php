@@ -9,11 +9,41 @@
 | It's a breeze. Simply tell Laravel the URIs it should respond to
 | and give it the controller to call when that URI is requested.
 |
-*/
+ */
 Route::get('/', function () {
-    return view('admin_template');
+	return view('homes.index');
 });
 Route::get('admin', function () {
-    return view('admin_template');
+	return view('admins.admin_template');
 });
 Route::get('test', 'TestController@index');
+$router->get('admin/add-new', function () {
+	return 'AddNewsController@index';
+});
+
+Route::get('products', 'ProductsController@index');
+Route::get('products/{products_id}', function () {
+	return view('products.show');
+});
+/*Route::get('admin/products', function () {
+return view('admins.products.index');
+});*/
+Route::resource('admin/products', 'AdminProductsController');
+/*Route::group(['as' => 'admin::'], function () {
+//TODO: before=>'login'
+$controller = 'Admin' . ucwords(Request::segment(2)) . 'Controller';
+$segment3 = Request::segment(3);
+switch ($segment3) {
+case 'create':
+return Route::get('admin/products/create', $controller . '@' . $segment3);
+break;
+case 'edit':
+case 'delete':
+case 'show':
+
+default:
+return Route::get(Request::path(), $controller . '@index');
+break;
+}
+
+});*/

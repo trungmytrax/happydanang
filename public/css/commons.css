@@ -1,0 +1,113 @@
+nav#navbar-section {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.no-margin {
+	margin: 0;
+}
+footer {
+    margin-top: 0;
+    padding: 0;
+    background: none;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    z-index: 999;
+}
+.carousel-inner .item {
+	height: 100%;
+}
+.carousel-inner .img-slide {
+	background-size: auto 100% !important;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+@media (min-width: 768px){
+	#services {
+		float: left !important;
+	}
+	#carousel-section {
+		float: right !important;
+	}
+}
+@media (max-width: 768px){
+
+    #navbar-spy {
+        background: none !important;
+    }
+}
+
+.socials {
+	margin: 0;
+    text-align: right;
+}
+.socials .icon-social {
+    width: 45px;
+    height: 45px;
+    display: table;
+    margin: 0 10px;
+}
+ul.socials li {
+	display: inline-block;
+}
+.copyright {
+	background: none;
+}
+.logo-contain .navbar-brand {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 50%;
+    margin-left: -115px;
+    top: 50px;
+    z-index: 1111;
+}
+/*Customer themes*/
+
+.navbar-default {
+   background: none !important;
+   border: none !important;
+}
+.nav.navbar-nav li {
+	background: none;
+}
+.nav.navbar-nav li a {
+	background: none;
+	color: #FFF;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	border: none;
+}
+#services {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.home {
+	max-height: 100vh;
+	overflow: hidden;
+}
+#carousel-section {
+    border-left: 1px dotted #DDD;
+}
+.navbar {
+    padding: 0;
+}
+#navbar-spy {
+    background-color: #fb0b0c;
+}
+.navbar-nav>li>a {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    color: #FFF !important;
+}
+#navbar-spy .navbar-nav li.active{
+    background: none !important;
+}
+#navbar-spy .navbar-nav li.active a{
+    color: #333 !important;
+}

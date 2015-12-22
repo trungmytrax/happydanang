@@ -1,11 +1,11 @@
 <?php
 
-namespace tinhthanh\Http\Controllers;
+namespace happydanang\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-use tinhthanh\Http\Requests;
-use tinhthanh\Http\Controllers\Controller;
+use happydanang\Http\Requests;
+use happydanang\Http\Controllers\Controller;
 
 class TestController extends Controller
 {

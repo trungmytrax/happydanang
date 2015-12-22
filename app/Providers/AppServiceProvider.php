@@ -1,6 +1,6 @@
 <?php
 
-namespace tinhthanh\Providers;
+namespace happydanang\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace tinhthanh;
+namespace happydanang;
 
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Database\Eloquent\Model;

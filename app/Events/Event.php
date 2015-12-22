@@ -1,6 +1,6 @@
 <?php
 
-namespace tinhthanh\Events;
+namespace happydanang\Events;
 
 abstract class Event
 {

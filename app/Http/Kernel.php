@@ -1,6 +1,6 @@
 <?php
 
-namespace tinhthanh\Http;
+namespace happydanang\Http;
 
 use Illuminate\Foundation\Http\Kernel as HttpKernel;
 
@@ -13,11 +13,11 @@ class Kernel extends HttpKernel
      */
     protected $middleware = [
         \Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode::class,
-        \tinhthanh\Http\Middleware\EncryptCookies::class,
+        \happydanang\Http\Middleware\EncryptCookies::class,
         \Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse::class,
         \Illuminate\Session\Middleware\StartSession::class,
         \Illuminate\View\Middleware\ShareErrorsFromSession::class,
-        \tinhthanh\Http\Middleware\VerifyCsrfToken::class,
+        \happydanang\Http\Middleware\VerifyCsrfToken::class,
     ];
 
     /**
@@ -26,8 +26,8 @@ class Kernel extends HttpKernel
      * @var array
      */
     protected $routeMiddleware = [
-        'auth' => \tinhthanh\Http\Middleware\Authenticate::class,
+        'auth' => \happydanang\Http\Middleware\Authenticate::class,
         'auth.basic' => \Illuminate\Auth\Middleware\AuthenticateWithBasicAuth::class,
-        'guest' => \tinhthanh\Http\Middleware\RedirectIfAuthenticated::class,
+        'guest' => \happydanang\Http\Middleware\RedirectIfAuthenticated::class,
     ];
 }
