@@ -32,7 +32,12 @@ CKEDITOR.editorConfig = function( config ) {
 
 	// Se the most common block elements.
 	config.format_tags = 'p;h1;h2;h3;pre';
-
 	// Make dialogs simpler.
 	config.removeDialogTabs = 'image:advanced;link:advanced';
+	config.filebrowserBrowseUrl = "http://localhost:8000/bower_components/AdminLTE/plugins/ckfinder/ckfinder.html";
+	config.filebrowserImageBrowseUrl = "http://localhost:8000/bower_components/AdminLTE/plugins/ckfinder/ckfinder.html?type=Images";
+	config.filebrowserFlashBrowseUrl = "http://localhost:8000/bower_components/AdminLTE/plugins/ckfinder/ckfinder.html?type=Flash";
+	config.filebrowserUploadUrl = "http://localhost:8000/bower_components/AdminLTE/plugins/ckfinder/core/connector/php/connector.php?command=QuickUpload&type=Files";
+	config.filebrowserImageUploadUrl = "http://localhost:8000/bower_components/AdminLTE/plugins/ckfinder/core/connector/php/connector.php?command=QuickUpload&type=Images";
+	config.filebrowserFlashUploadUrl = "http://localhost:8000/bower_components/AdminLTE/plugins/ckfinder/core/connector/php/connector.php?command=QuickUpload&type=Flash";
 };

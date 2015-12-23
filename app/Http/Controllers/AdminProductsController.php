@@ -21,7 +21,7 @@ class AdminProductsController extends Controller {
 	 * @return \Illuminate\Http\Response
 	 */
 	public function create() {
-		return 'create';
+		return view('admins.products.add');
 	}
 
 	/**
@@ -31,7 +31,8 @@ class AdminProductsController extends Controller {
 	 * @return \Illuminate\Http\Response
 	 */
 	public function store(Request $request) {
-		//
+		$name = $request->input('name');
+		dd($request->input());
 	}
 
 	/**

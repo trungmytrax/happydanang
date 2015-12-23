@@ -74,4 +74,12 @@ class ProductsController extends Controller {
 	public function destroy($id) {
 		//
 	}
+	public function fileList()
+	{
+		return \Request::root().'/img';
+	}
+	public function fileUpload()
+	{
+		dd('bbbbbbbbb');
+	}
 }

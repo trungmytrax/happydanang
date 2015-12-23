@@ -25,6 +25,14 @@ Route::get('products', 'ProductsController@index');
 Route::get('products/{products_id}', function () {
 	return view('products.show');
 });
+/*Route::get('files/list', function ()
+{
+	dd('ddddddddd');
+});*/
+Route::get('files/list',['as' =>'fileList', 'uses' => 'ProductsController@fileList']);
+Route::get('files/upload',['as' =>'fileUpload', 'uses' => 'ProductsController@fileUpload']);
+// Route::post('files/list','ProductsController@fileList');
+// Route::post('files/upload','ProductsController@fileUpload');
 /*Route::get('admin/products', function () {
 return view('admins.products.index');
 });*/
